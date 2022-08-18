@@ -1,4 +1,4 @@
-# Design clone of Paytm.com Home Page
+# Paytm website Home Page design clone.
 ### Mobile responsive.
 ### Made using HTML and Tailwind CSS.
 ----
