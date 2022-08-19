@@ -1,8 +1,15 @@
 # Paytm website Home Page design clone.
-### Mobile responsive.
-### Made using HTML and Tailwind CSS.
-----
-## Check it out live👉 [here](https://paytmkaro.netlify.app/)
+
+Fully Mobile responsive.
+
+![html | Tailwind](https://badgen.net/badge/HTML/Tailwind/blue)
+
+### Things I learnt
+- Flex
+- Grid
+- Responsiveness in Tailwind
+
+### Check it out live👉 [here](https://paytmkaro.netlify.app/)
 -----
 ## This is how it looks 👀
 ![Preview1](./preview1.jpg)
