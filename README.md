@@ -2,7 +2,7 @@
 
 Fully Mobile responsive.
 
-![html | Tailwind](https://badgen.net/badge/HTML/Tailwind/blue)
+Made using HTML and Tailwind CSS.
 
 ### Things I learnt
 - Flex
